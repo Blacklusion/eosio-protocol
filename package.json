@@ -1,7 +1,7 @@
 {
   "name": "eosio-protocol",
   "version": "1.0.0",
-  "description": "",
+  "description": "Contains classes to create a P2P-Client that conforms to the EOSIO Protocol.",
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
