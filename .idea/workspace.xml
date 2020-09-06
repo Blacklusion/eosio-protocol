@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="083e9378-27dc-41e5-985f-7604166d07bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2ptest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599231742103</updated>
       <workItem from="1599231744217" duration="1019000" />
-      <workItem from="1599244454159" duration="8387000" />
+      <workItem from="1599244454159" duration="9652000" />
     </task>
     <servers />
   </component>
@@ -112,5 +112,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1417" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599244433920" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1599329844508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599329844508" />
   </component>
 </project>
