@@ -106,9 +106,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599737531128" />
-    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1599329844508">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="660" y="154" width="600" height="771" key="find.popup" timestamp="1605441393558">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="154" width="600" height="771" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605441393558" />
+    <state x="511" y="233" width="896" height="814" key="search.everywhere.popup" timestamp="1605441367747">
+      <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599329844508" />
+    <state x="511" y="233" width="896" height="814" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605441331087" />
+    <state x="511" y="233" width="896" height="814" key="search.everywhere.popup/1920.23.1920.1057/0.0.1920.1019@0.0.1920.1019" timestamp="1605441367747" />
   </component>
 </project>
