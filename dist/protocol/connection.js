@@ -34,7 +34,7 @@ class EOSIOP2PClientConnection extends EventEmitter {
             });
             const self = this;
             this.client.connect(this.port, this.host, function () {
-                console.log('Connected to p2p');
+                //console.log('Connected to p2p');
                 self.emit('connected');
                 resolve(self.client);
             });

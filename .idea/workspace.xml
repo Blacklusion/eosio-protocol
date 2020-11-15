@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="083e9378-27dc-41e5-985f-7604166d07bd" name="Default Changelist" comment="" />
+    <list default="true" id="083e9378-27dc-41e5-985f-7604166d07bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/protocol/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/protocol/connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/protocol/connection.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/protocol/connection.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protocol/connection.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/protocol/connection.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h3FCX0VWXIDkmFbqn9E3uUKP10" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -61,26 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1599231742103</updated>
       <workItem from="1599231744217" duration="1019000" />
-      <workItem from="1599244454159" duration="13119000" />
+      <workItem from="1599244454159" duration="14358000" />
+      <workItem from="1599739612288" duration="36000" />
+      <workItem from="1605441197350" duration="401000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/src/node-config.js" />
-        <option value="$PROJECT_DIR$/src/test.js" />
-        <option value="$PROJECT_DIR$/src/protocol/connection.js" />
-        <option value="$PROJECT_DIR$/src/protocol/messages.js" />
-        <option value="$PROJECT_DIR$/src/protocol/system-abi.js" />
-        <option value="$PROJECT_DIR$/src/protocol/net-protocol.js" />
-        <option value="$PROJECT_DIR$/src/protocol/stream/serializer.js" />
-        <option value="$PROJECT_DIR$/src/protocol/stream/tokenizer.js" />
-        <option value="$PROJECT_DIR$/src/protocol/stream/deserializer.js" />
-        <option value="$PROJECT_DIR$/src/protocol/stream/debugger.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -92,24 +87,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1599392194154">
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1599737531129">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599392194154" />
-    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1599392194151">
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599737531129" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1599737531127">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599392194151" />
-    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1599392194150">
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599737531127" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1599737531126">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599392194150" />
-    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1599392194153">
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599737531126" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1599737531128">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599392194153" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599737531128" />
     <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1599329844508">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
